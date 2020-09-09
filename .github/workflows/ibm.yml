@@ -30,7 +30,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-    - name: Checkout
+    - name: Checkout to
       uses: actions/checkout@v2
 
     # Download and Install IBM Cloud CLI
